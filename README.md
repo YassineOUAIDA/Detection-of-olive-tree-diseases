@@ -4,6 +4,7 @@ The identification of plant diseases especially of the olive tree remains very i
 <h3>requirements :</h3> 
 
 Before to run the program try to install all this requirments.<br>
+First install <b>Python 3.<b> or above
 <ul>
   <li>pip install numpy</li>
   <li>pip install opencv-python</li>
